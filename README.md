@@ -14,7 +14,7 @@ header {
 aside {
   float: left;
   padding: 20px;
-  width: 25%;
+  width: 35%;
   background-color: gray;
   height: 800px;
 }
