@@ -5,28 +5,28 @@
 <style>
 /* Layout */
 header {
-  background-color: #666;
+  background-color: gray;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 30px;
   color: white;
 }
-article {
+aside {
   float: left;
   padding: 20px;
-  width: 40%;
-  background-color: #ababab;
+  width: 25%;
+  background-color: gray;
   height: 800px;
 }
 	/* Text Formatting */
-		h1 {color:rgb(0, 157, 255); font-family: Arial, Helvetica, sans-serif;}
-		h2 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;}
+		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;}
+		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif; font-size: larger;}
+		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;}
 		p {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
 		a {color:gray; font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
 </style>
 <header>
-<!-- Twitter Button -->
-<a href="https://twitter.com/migueljaimex?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @migueljaimex</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<h2>@migueljaimex</h2>
 <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
@@ -35,20 +35,28 @@ article {
 		</span>
 	</span>
  </a>
+<!-- Twitter Button -->
+<a href="https://twitter.com/migueljaimex" target="_blank">
+    <span style="font-size: 2.0rem;">
+        <span style="color: rgb(29, 161, 242);">
+            <i class="fab fa-twitter"></i>
+        </span>
+    </span>
+</a>
 </header>
 	</head>
 
 
-<article>
+<aside>
 <!-- TITLE  -->
-<h1>Projects</h1>
+<h1>PROJECTS</h1>
 <!-- Entry #1 -->
-	<h2> Twitter AI Bot @m_bot22 </h2>
-	<p>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:<br>
-		- "Tweepy" to access Twitter's API. <br>
+	<h3> Twitter AI Bot </h3> 
+	<p>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:</p>
+		<p>- "Tweepy" to access Twitter's API. <br>
 		- "OpenAI" artificial intelligence. <br>
 		- "Crontab" to run the script every 10 minutes.</p>
 <!-- Twitter Bot Embed Code -->
-	<a class="twitter-timeline" data-width="600" data-height="800" href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw">Tweets by M_Bot22</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</article>
+<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</aside>
 </html>
