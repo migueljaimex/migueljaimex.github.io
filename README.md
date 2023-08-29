@@ -27,6 +27,7 @@ aside {
 </style>
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="height=device-height, initial-scale=1.0">
 <h2>@migueljaimex</h2>
 <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
