@@ -54,11 +54,11 @@ aside {
 <h1>PROJECTS</h1>
 <!-- Entry #1 -->
 	<h3> Twitter AI Bot </h3> 
+	<!-- Twitter Bot Embed Code -->
+<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<p>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:</p>
 		<p>- "Tweepy" to access Twitter's API. <br>
 		- "OpenAI" artificial intelligence. <br>
 		- "Crontab" to run the script every 10 minutes.</p>
-<!-- Twitter Bot Embed Code -->
-<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 </html>
