@@ -16,7 +16,7 @@ aside {
   padding: 20px;
   width: 30%;
   background-color: gray;
-  height: 800px;
+  height: 1000px;
 }
 	/* Text Formatting */
 		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;}
