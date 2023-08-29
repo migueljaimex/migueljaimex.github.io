@@ -12,18 +12,26 @@ header {
   color: white;
 }
 aside {
-  float: left;
-  padding: 20px;
-  width: 30%;
   background-color: gray;
-  height: 1000px;
+  float: left;
+  width: 20%;
+  padding: 15px;
+  margin-top: 7px;
+  text-align: left;
+}
+section {
+	float: left;
+	width: 60%;
+	padding: 0 20px;
 }
 	/* Text Formatting */
 		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: 20px;}
 		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 20px}
-		p {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
-		a {color:gray; font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
+		p {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;}
+		a {color:gray; font-family: Arial, Helvetica, sans-serif;}
+		/* MAIN POST TEXT COLOR */
+		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;}
 </style>
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,4 +69,8 @@ aside {
 		- "OpenAI" artificial intelligence. <br>
 		- "Crontab" to run the script every 10 minutes.</p>
 </aside>
+<section>
+
+
+</section>
 </html>
