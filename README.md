@@ -37,8 +37,6 @@ section {
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="viewport" content="height=device-height, initial-scale=1.0">
 <h2>@migueljaimex</h2>
-	<!-- Twitter Bot Embed Code -->
-	<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
@@ -58,17 +56,16 @@ section {
 </header>
 	</head>
 <aside>
-<!-- TITLE  -->
-<h1>PROJECTS</h1>
-<!-- Entry #1 -->
-	<h3> Twitter AI Bot </h3> 
-	<p>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:</p>
-		<p>- "Tweepy" to access Twitter's API. <br>
-		- "OpenAI" artificial intelligence. <br>
-		- "Crontab" to run the script every 10 minutes.</p>
+	<!-- Twitter Bot Embed Code -->
+	<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 <section>
-
-
+<!-- TITLE  -->
+<br> <a> Twitter AI Bot </a>  <br> <br>
+<!-- Entry #1 -->
+	<a>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:</a> <br> <br>
+		<a>- "Tweepy" to access Twitter's API. <br>
+		- "OpenAI" artificial intelligence. <br>
+		- "Crontab" to run the script every 10 minutes.</a>
 </section>
 </html>
