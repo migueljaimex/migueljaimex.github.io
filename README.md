@@ -14,7 +14,7 @@ header {
 aside {
   float: left;
   padding: 20px;
-  width: 35%;
+  width: 30%;
   background-color: gray;
   height: 800px;
 }
@@ -26,6 +26,7 @@ aside {
 		a {color:gray; font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
 </style>
 <header>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h2>@migueljaimex</h2>
 <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
