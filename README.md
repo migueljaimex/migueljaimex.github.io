@@ -8,7 +8,7 @@ header {
   background-color: gray;
   padding: 30px;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   color: white;
 }
 aside {
@@ -19,9 +19,9 @@ aside {
   height: 1000px;
 }
 	/* Text Formatting */
-		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;}
-		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif; font-size: larger;}
-		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;}
+		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: 20px;}
+		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
+		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 20px}
 		p {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
 		a {color:gray; font-family: Arial, Helvetica, sans-serif; max-width: 640px;}
 </style>
