@@ -13,30 +13,34 @@ header {
 }
 aside {
   background-color: gray;
-  float: left;
+  float: right;
   width: 20%;
   padding: 15px;
   margin-top: 7px;
   text-align: left;
-}
+} 
 section {
-	float: left;
-	width: 60%;
-	padding: 0 20px;
+	float: center;
+	text-align: left;
+	width: 65%;
+	padding: 64px;
 }
 	/* Text Formatting */
-		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: 15px;}
+		/* Site Title Style */
+		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
+		/* UNUSED Style */
 		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
-		p {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
-		a {color:gray; font-family: Arial, Helvetica, sans-serif;}
-		/* MAIN POST TEXT COLOR */
-		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;}
+		p {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: 15px}
+		/* Post Content Style */
+		a {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		/* Post Title Color */
+		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 </style>
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="viewport" content="height=device-height, initial-scale=1.0">
-<h2>@migueljaimex</h2>
+<h1>@migueljaimex</h1>
 <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
@@ -56,12 +60,12 @@ section {
 </header>
 	</head>
 <aside>
-	<!-- Twitter Bot Embed Code -->
-	<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 <section>
 <!-- TITLE  -->
-<br> <a> Twitter AI Bot </a>  <br> <br>
+<br> <h4> Twitter AI Bot </h4>
+	<!-- Twitter Bot Embed Code -->
+	<a href="https://twitter.com/M_Bot22?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br> <br>
 <!-- Entry #1 -->
 	<a>A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include:</a> <br> <br>
 		<a>- "Tweepy" to access Twitter's API. <br>
