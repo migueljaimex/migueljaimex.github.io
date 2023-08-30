@@ -11,18 +11,18 @@ header {
   font-size: 20px;
   color: white;
 }
-aside {
+/* aside {
   background-color: gray;
   float: right;
   width: 20%;
   padding: 15px;
   margin-top: 7px;
   text-align: left;
-} 
+}  */
 section {
 	float: center;
 	text-align: left;
-	width: 65%;
+	width: screen;
 	padding: 64px;
 }
 	/* Text Formatting */
