@@ -30,16 +30,14 @@ table, th, td {
 
 	/* Text Formatting */
 		/* Site Title Style */
-		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
+		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* UNUSED Style */
-		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
-		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
+		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* CONTROLS GITHUB LINK AT TOP */
 		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
 		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
-		/* Post Title Color */
-		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: x-large;}
 </style>
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
