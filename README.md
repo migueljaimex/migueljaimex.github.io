@@ -35,7 +35,7 @@ table, th, td {
 		/* UNUSED Style */
 		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
-		a {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		a {color:rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
 		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Title Color */
@@ -44,8 +44,7 @@ table, th, td {
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="viewport" content="height=device-height, initial-scale=1.0">
-<h1>@migueljaimex</h1>
-<!-- Instagram Button -->
+<h1>@migueljaimex <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
 		<span style="color: rgb(255, 0, 149);">
@@ -54,7 +53,7 @@ table, th, td {
 <a href="https://twitter.com/migueljaimex" target="_blank">
     <span style="font-size: 2.0rem;">
         <span style="color: rgb(29, 161, 242);">
-            <i class="fab fa-twitter"></i></span></span></a><br><br><a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <i class="fab fa-twitter"></i></span></span></a><br><br><a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h1>
 </header>
 </head>
 
