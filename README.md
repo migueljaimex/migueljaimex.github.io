@@ -12,9 +12,9 @@ header {
   color: white;
 }
 aside {
-  background-color: gray;
+  background-color: white;
   float: right;
-  width: 20%;
+  width: 30%;
   padding: 15px;
   margin-top: 7px;
   text-align: left;
@@ -22,8 +22,7 @@ aside {
 section {
 	float: left;
 	text-align: left;
-	width: 70%;
-	padding: 60px;
+	width: 60%;
 }
 table, th, td {
   border:1px solid #efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;   background-color: gray;
