@@ -33,11 +33,11 @@ table, th, td {
 		/* Site Title Style */
 		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		/* UNUSED Style */
-		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
+		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
 		a {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
-		p {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Title Color */
 		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: x-large;}
 </style>
@@ -49,10 +49,7 @@ table, th, td {
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
 		<span style="color: rgb(255, 0, 149);">
-		   <i class="fab fa-instagram"></i>
-		</span>
-	</span>
- </a>
+		   <i class="fab fa-instagram"></i></span></span></a>
 <!-- Twitter Button -->
 <a href="https://twitter.com/migueljaimex" target="_blank">
     <span style="font-size: 2.0rem;">
@@ -68,10 +65,10 @@ table, th, td {
 <aside>
 <table>
 	<tr>
-	  <th> <h1>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h1> </th>
+	  <th> <h2>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2> </th>
 	</tr>
 	<tr>
-	  <td> <a> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br> <br>"Tweepy" to access Twitter's API <br><br>"OpenAI" artificial intelligence <br><br>"Crontab" to run the script every 10 minutes.</a> </td>
+	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br> <br>"Tweepy" to access Twitter's API <br><br>"OpenAI" artificial intelligence <br><br>"Crontab" to run the script every 10 minutes.</p> </td>
 	</tr>
   </table>
 </aside>
