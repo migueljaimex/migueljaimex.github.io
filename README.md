@@ -14,15 +14,16 @@ header {
 aside {
   background-color: white;
   float: right;
-  width: 30%;
+  width: 25%;
   padding: 15px;
   margin-top: 7px;
-  text-align: left;
+  text-align: center;
 } 
 section {
 	float: left;
 	text-align: left;
-	width: 60%;
+	width: 75%;
+	padding: 1%;
 }
 table, th, td {
   border:1px solid #efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;   background-color: gray;
@@ -30,7 +31,7 @@ table, th, td {
 
 	/* Text Formatting */
 		/* Site Title Style */
-		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		/* UNUSED Style */
 		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: large;}
@@ -56,10 +57,11 @@ table, th, td {
 </head>
 
 <!-- Project Entry #1 -->
-<section>
+<aside>
+	<h1>Projects</h1>
 <table>
 	<tr>
 	  <th><h2> Twitter AI Bot <br> <h2> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></h2></th>
 	</tr> <tr> <td> <p> A Twitter AI bot that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br><br>Tweepy to access Twitter's API<br>OpenAI artificial intelligence <br> Crontab to run the script every 10 minutes.</p> </td> </tr> </table>
-</section>
+</aside>
 </html>
