@@ -35,7 +35,8 @@ table, th, td {
 		/* UNUSED Style */
 		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
-		a {color:rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		/* CONTROLS GITHUB LINK AT TOP */
+		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
 		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Title Color */
@@ -44,7 +45,7 @@ table, th, td {
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="viewport" content="height=device-height, initial-scale=1.0">
-<h1>@migueljaimex <!-- Instagram Button -->
+<h1> <!-- Instagram Button -->
 <a href="https://instagram.com/migueljaimex">
 	<span style="font-size: 2.0rem;">
 		<span style="color: rgb(255, 0, 149);">
@@ -53,7 +54,7 @@ table, th, td {
 <a href="https://twitter.com/migueljaimex" target="_blank">
     <span style="font-size: 2.0rem;">
         <span style="color: rgb(29, 161, 242);">
-            <i class="fab fa-twitter"></i></span></span></a><br><br><a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h1>
+            <i class="fab fa-twitter"></i></span></span></a> @migueljaimex </h1>
 </header>
 </head>
 
@@ -61,7 +62,7 @@ table, th, td {
 <section>
 <table>
 	<tr>
-	  <th><h2> <br> Twitter AI Bot @M_bot22</h2></th>
+	  <th><h2> <br> Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></th>
 	</tr>
 	<tr>
 	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br><br>Tweepy to access Twitter's API<br>OpenAI artificial intelligence <br> Crontab to run the script every 10 minutes.</p> </td>
