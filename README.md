@@ -13,17 +13,17 @@ header {
 }
 aside {
   background-color: gray;
-  float: left;
+  float: right;
   width: 20%;
   padding: 15px;
   margin-top: 7px;
   text-align: left;
 } 
 section {
-	float: center;
+	float: left;
 	text-align: center;
-	width: 60%;
-	padding: 64px;
+	width: 70%;
+	padding: 60px;
 }
 table, th, td {
   border:1px solid #efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;   background-color: gray;
@@ -54,21 +54,18 @@ table, th, td {
 <a href="https://twitter.com/migueljaimex" target="_blank">
     <span style="font-size: 2.0rem;">
         <span style="color: rgb(29, 161, 242);">
-            <i class="fab fa-twitter"></i>
-        </span>
-    </span>
-</a>
+            <i class="fab fa-twitter"></i></span></span></a><br><br><a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </header>
-	</head>
+</head>
 
 <!-- Project Entry #1 -->
 <section>
 <table>
 	<tr>
-	  <th> <h2>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2> </th>
+	  <th><h2> <br> Twitter AI Bot @M_bot22</h2></th>
 	</tr>
 	<tr>
-	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include Tweepy to access Twitter's API, OpenAI artificial intelligence and Crontab to run the script every 10 minutes.</p> </td>
+	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br><br>Tweepy to access Twitter's API<br>OpenAI artificial intelligence <br> Crontab to run the script every 10 minutes.</p> </td>
 	</tr>
   </table>
 </section>
