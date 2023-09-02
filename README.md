@@ -68,7 +68,7 @@ table, th, td {
 	  <th> <h2>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2> </th>
 	</tr>
 	<tr>
-	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br> <br>"Tweepy" to access Twitter's API <br><br>"OpenAI" artificial intelligence <br><br>"Crontab" to run the script every 10 minutes.</p> </td>
+	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include Tweepy to access Twitter's API, OpenAI artificial intelligence and Crontab to run the script every 10 minutes.</p> </td>
 	</tr>
   </table>
 </aside>
