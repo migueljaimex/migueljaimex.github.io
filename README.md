@@ -35,7 +35,7 @@ table, th, td {
 		/* UNUSED Style */
 		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
-		a {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		a {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
 		p {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Title Color */
@@ -71,7 +71,7 @@ table, th, td {
 	  <th> <h1>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h1> </th>
 	</tr>
 	<tr>
-	  <td> <h3> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br> <br>"Tweepy" to access Twitter's API <br><br>"OpenAI" artificial intelligence <br><br>"Crontab" to run the script every 10 minutes.</h3> </td>
+	  <td> <a> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br> <br>"Tweepy" to access Twitter's API <br><br>"OpenAI" artificial intelligence <br><br>"Crontab" to run the script every 10 minutes.</a> </td>
 	</tr>
   </table>
 </aside>
