@@ -33,11 +33,11 @@ table, th, td {
 		/* Site Title Style */
 		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		/* UNUSED Style */
-		h2 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
 		a {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
-		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: small;}
 		/* Post Title Color */
 		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: x-large;}
 </style>
