@@ -22,7 +22,7 @@ aside {
 section {
 	float: center;
 	text-align: center;
-	width: screen;
+	width: 60%;
 	padding: 64px;
 }
 table, th, td {
@@ -33,11 +33,11 @@ table, th, td {
 		/* Site Title Style */
 		h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		/* UNUSED Style */
-		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: 15px}
 		a {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Content Style */
-		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: small;}
+		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* Post Title Color */
 		h4 {color:gray; font-family: Arial, Helvetica, sans-serif;font-size: x-large;}
 </style>
@@ -62,7 +62,7 @@ table, th, td {
 	</head>
 
 <!-- Project Entry #1 -->
-<aside>
+<section>
 <table>
 	<tr>
 	  <th> <h2>Twitter AI Bot <br> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2> </th>
@@ -71,7 +71,7 @@ table, th, td {
 	  <td> <p> A Twitter AI bot python script that tweets computer programming jokes, questions and motivational quotes. Python libraries used include Tweepy to access Twitter's API, OpenAI artificial intelligence and Crontab to run the script every 10 minutes.</p> </td>
 	</tr>
   </table>
-</aside>
+</section>
 
 <Section>
 </Section>
