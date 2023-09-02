@@ -35,7 +35,7 @@ table, th, td {
 		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* CONTROLS GITHUB LINK AT TOP */
-		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size: large;}
+		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size:0%;}
 		/* Post Content Style */
 		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 </style>
