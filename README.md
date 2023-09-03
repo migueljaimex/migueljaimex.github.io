@@ -23,7 +23,7 @@
 	section {
 		float: left;
 		text-align: left;
-		width: 75%;
+		width: 90%;
 		padding: 1%;
 	}
 	table, th, td {
