@@ -68,7 +68,7 @@
 <section>
 <table>
 	<tr>
-	  <th><h2> Project - Twitter AI Bot <br> <h2> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></h2></th>
+	  <th><h2> Project - Twitter AI Bot <br> <h2> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="larger" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></h2></th>
 	</tr> <tr> <td> <p> A Twitter AI bot that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br><br>Tweepy to access Twitter's API<br>OpenAI artificial intelligence <br> Crontab to run the script every 10 minutes.</p> </td> </tr> </table>
 </section>
 </body>
