@@ -4,29 +4,6 @@
 	<link rel="stylesheet" href="mystyle.css">
 	<title>@migueljaimex</title>
 <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: gray;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #efff60;
-}
 /* Layout */
 header {
   background-color: gray;
@@ -60,7 +37,7 @@ table, th, td {
 		h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 		/* CONTROLS GITHUB LINK AT TOP */
-		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size:20%;}
+		a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size:0%;}
 		/* Post Content Style */
 		p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
 </style>
@@ -80,12 +57,7 @@ table, th, td {
 </header>
 </head>
 <body>
-	<ul>
-		<li><a class="active" href="#home">Home</a></li>
-		<li><a href="#Projects">Projects</a></li>
-		<li><a href="#contact">Contact</a></li>
-		<li><a href="#about">About</a></li>
-	  </ul>
+
 	  
 </body>
 <!-- Project Entry #1 -->
