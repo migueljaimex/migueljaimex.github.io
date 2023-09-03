@@ -27,19 +27,26 @@
 		padding: 1%;
 	}
 	table, th, td {
-	border:1px solid #efff60; font-family: Arial, Helvetica, sans-serif;font-size: large;   background-color: gray;
+		border-collapse: collapse;
+            width: 80%;
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			text-align: left;
+            padding: 12px;
 	}
 
 		/* Text Formatting */
 			/* Site Title Style */
 			h1 {color:#efff60; font-family: Arial, Helvetica, sans-serif;font-size: larger;}
 			/* UNUSED Style */
-			h2 {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
-			h3 {color:rgb(253, 253, 253); font-family: Arial, Helvetica, sans-serif;font-size: large;}
+			h2 {color:rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;font-size: large;}
+			h3 {color:rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 			/* CONTROLS GITHUB LINK AT TOP */
 			a {color:rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif;font-size:0%;}
 			/* Post Content Style */
-			p {color:white; font-family: Arial, Helvetica, sans-serif;font-size: large;}
+			p {color:rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;font-size: large;}
 	</style>
 <header>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,10 +66,9 @@
 <body>
 <!-- Project Entry #1 -->
 <section>
-	<h1>Projects</h1>
 <table>
 	<tr>
-	  <th><h2> Twitter AI Bot <br> <h2> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></h2></th>
+	  <th><h2> Project - Twitter AI Bot <br> <h2> <a href="https://twitter.com/M_Bot22" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @M_Bot22</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </h2></h2></th>
 	</tr> <tr> <td> <p> A Twitter AI bot that tweets computer programming jokes, questions and motivational quotes. Python libraries used include: <br><br>Tweepy to access Twitter's API<br>OpenAI artificial intelligence <br> Crontab to run the script every 10 minutes.</p> </td> </tr> </table>
 </section>
 </body>
